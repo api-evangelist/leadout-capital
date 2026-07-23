@@ -1,0 +1,249 @@
+generated: '2026-07-22'
+method: derived
+source_vc: leadout-capital
+leads:
+- name: Insito Health
+  url: https://insitohealth.com/
+  suggested_slug: insito-health
+  sector: Healthcare
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Latii
+  url: https://latii.com/
+  suggested_slug: latii
+  sector: Marketplace
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Streamlane
+  url: https://www.getstreamlane.com/
+  suggested_slug: streamlane
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: First Bite
+  url: https://www.firstbite.io/
+  suggested_slug: first-bite
+  sector: Vertical SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Laws of Motion
+  url: https://lawsofmotion.com/
+  suggested_slug: laws-of-motion
+  sector: Consumer & Commerce
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Liferaft
+  url: https://www.liferaft.co/
+  suggested_slug: liferaft
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: AFi
+  url: https://afipayments.com/
+  suggested_slug: afi
+  sector: Other
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: BiggerPicture
+  url: https://biggerpicture.co/
+  suggested_slug: biggerpicture
+  sector: Vertical SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: CropConex
+  url: https://cropconex.com/
+  suggested_slug: cropconex
+  sector: Vertical SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: ENDVR
+  url: https://www.endvr.io/
+  suggested_slug: endvr
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: SYKY
+  url: https://www.syky.com/
+  suggested_slug: syky
+  sector: Consumer & Commerce
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Stellation Care
+  url: https://stellationcare.com/
+  suggested_slug: stellation-care
+  sector: Healthcare
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: TeamLift
+  url: https://www.teamlift.co/
+  suggested_slug: teamlift
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: YourPath
+  url: https://yourpathhealth.org/
+  suggested_slug: yourpath
+  sector: Healthcare
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Axiom Cloud
+  url: https://axiomcloud.ai/
+  suggested_slug: axiom-cloud
+  sector: Vertical SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: BlockSpaces
+  url: https://www.blockspaces.com/
+  suggested_slug: blockspaces
+  sector: Other
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Boh
+  url: https://boh.ai/
+  suggested_slug: boh
+  sector: Vertical SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Castro Labs
+  url: https://www.castrolabs.co/
+  suggested_slug: castro-labs
+  sector: Consumer & Commerce
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Centrly
+  url: https://centrly.com/
+  suggested_slug: centrly
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Kraftful
+  url: https://www.kraftful.com/
+  suggested_slug: kraftful
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: LiSTR
+  url: https://listr.com/
+  suggested_slug: listr
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Lovewick
+  url: https://lovewick.com/
+  suggested_slug: lovewick
+  sector: Consumer & Commerce
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Momentum
+  url: https://www.momentum.io/
+  suggested_slug: momentum
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Reserve Trust
+  url: https://www.reservetrust.com/
+  suggested_slug: reserve-trust
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Ruby Money
+  url: https://www.rubymoney.us/
+  suggested_slug: ruby-money
+  sector: Other
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: The Vendry
+  url: https://thevendry.com/
+  suggested_slug: the-vendry
+  sector: Marketplace
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Human
+  url: https://www.tryhuman.io/
+  suggested_slug: human
+  sector: Consumer & Commerce
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: R-Zero
+  url: https://rzero.com/
+  suggested_slug: r-zero
+  sector: Other
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: SageLink
+  url: https://www.sage.link/
+  suggested_slug: sagelink
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Tierra
+  url: https://tierra.co/
+  suggested_slug: tierra
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Booksloth
+  url: http://www.booksloth.com/
+  suggested_slug: booksloth
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Pawscout
+  url: https://pawscout.com/
+  suggested_slug: pawscout
+  sector: Consumer & Commerce
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Series Financial
+  url: https://www.seriesfi.com/
+  suggested_slug: series-financial
+  sector: SaaS
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Near Space Labs
+  url: https://nearspacelabs.com/
+  suggested_slug: near-space-labs
+  sector: Other
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false
+- name: Walrus
+  url: https://walrus.ai/
+  suggested_slug: walrus
+  sector: Infra / Developer Tools
+  source_vc: leadout-capital
+  source: https://www.leadoutcapital.com/portfolio
+  stub_created: false

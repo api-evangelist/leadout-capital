@@ -1,0 +1,23 @@
+generated: '2026-07-19'
+method: searched
+source: live probe of https://www.leadoutcapital.com
+host: https://www.leadoutcapital.com
+note: >-
+  No /.well-known/ discovery documents are published. Leadout Capital is a venture capital firm with a
+  static marketing site (Webflow) and no public API surface. Recorded as an honest negative result; no
+  WellKnown pointer is wired in apis.yml because no document is present.
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /llms.txt
+    status: 404
+  - path: /robots.txt
+    status: 200

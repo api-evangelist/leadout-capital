@@ -1,0 +1,44 @@
+# Leadout Capital
+
+> Leadout Capital is an early-stage venture capital fund based in Portola Valley, California, founded in
+> 2018 by Ali Rosenthal. The firm leads, co-leads, or takes a significant position in pre-seed and seed
+> rounds, organizing its thesis around "founder-market fit" — founders with a unique market insight born of
+> lived experience and demonstrable, empathy-grounded customer expertise. Leadout is a limited-partner
+> relationship of Foundry Group's partner-fund network. It has no public API; this profile is a company
+> record in the API Evangelist network.
+
+## Firm
+
+- [Website](https://www.leadoutcapital.com): Firm homepage.
+- [About Us](https://www.leadoutcapital.com/about-us): Core fund values, focus, investment size, and FAQ.
+- [Team](https://www.leadoutcapital.com/team): Partners and venture partners.
+- [Portfolio](https://www.leadoutcapital.com/portfolio): Filterable portfolio of 46 companies by sector and status.
+- [Jobs](https://jobs.leadoutcapital.com/jobs): Portfolio-wide job board.
+
+## Focus
+
+- Stage: pre-seed and seed; leads, co-leads, or takes a significant position.
+- Thesis: founder-market fit — unique market insight grounded in the founding team's lived experience.
+- Preferred characteristics: strong network effects, unique data sets, organic and viral growth, strong unit economics, long-term defensibility.
+- Sectors seen in the portfolio: SaaS, Vertical SaaS, Marketplace, Healthcare, Consumer & Commerce, Infra / Developer Tools.
+
+## Writing
+
+- [Medium](https://leadoutcapital.medium.com/): Firm blog.
+- [LinkedIn](https://www.linkedin.com/company/leadout-capital/)
+- [X](https://x.com/leadoutcapital)
+
+## API Evangelist artifacts
+
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/leadout-capital/refs/heads/main/apis.yml): APIs.json profile for the firm.
+- [Portfolio](https://raw.githubusercontent.com/api-evangelist/leadout-capital/refs/heads/main/portfolio/leadout-capital-portfolio.yml): 46 portfolio companies, matched to the API Evangelist network by registrable domain.
+- [Team](https://raw.githubusercontent.com/api-evangelist/leadout-capital/refs/heads/main/team/leadout-capital-team.yml): Investment team.
+- [New company leads](https://raw.githubusercontent.com/api-evangelist/leadout-capital/refs/heads/main/leads/leadout-capital-new-company-leads.yml): Portfolio companies not yet in the network.
+- [Domain security](https://raw.githubusercontent.com/api-evangelist/leadout-capital/refs/heads/main/security/leadout-capital-domain-security.yml): Probed TLS/HSTS/DNSSEC/CAA/SPF/DMARC posture.
+- [Well-known](https://raw.githubusercontent.com/api-evangelist/leadout-capital/refs/heads/main/well-known/leadout-capital-well-known.yml): Probed /.well-known/ surface (none published).
+
+## Notes
+
+- No public API, OpenAPI, SDK, MCP server, sandbox, or developer portal exists for this firm. Artifact types
+  that depend on an API surface are intentionally absent rather than fabricated.
+- Contact: grit@leadoutcapital.com
