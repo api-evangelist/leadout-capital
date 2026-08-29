@@ -12,6 +12,17 @@ description: >-
   vertical SaaS, marketplaces, healthcare, consumer and commerce, and infrastructure/developer tools, and
   includes Expo, Cloudsmith, Creatify AI, AtoB, R-Zero, Near Space Labs, Pavilion, Momentum, Axiom Cloud,
   and theCut. Leadout is a partner fund within Foundry Group's network-driven limited-partner model.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
